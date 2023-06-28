@@ -16,7 +16,6 @@ export default {
 h1 {
   color: red;
   text-align: center;
-  margin-top: 200px;
   padding: 50px;
   background-color: gray;
 }
